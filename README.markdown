@@ -31,7 +31,7 @@ The required markup for jShowOff is a parent element with one or more child elem
 
 jShowOff has several options for customization.  Pass these settings as an object to the `.jshowoff()` method like this:
 
-    $('#features').jshowoff({ speed:1500, links: false }); });
+    $('#features').jshowoff({ speed:1500, links: false });
 
 <table id="options" cellpadding="0" cellspacing="0">
 	<col />
